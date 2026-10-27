@@ -1,0 +1,4 @@
+_favicon/
+.claude/
+.DS_Store
+__pycache__/

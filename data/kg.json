@@ -1,0 +1,980 @@
+{
+ "source": {
+  "url": "https://me.rcrdscrtch.com/",
+  "title": "Dima Durah — Founder and Growth Leader"
+ },
+ "nodes": [
+  {
+   "id": "webpage",
+   "type": "WebPage",
+   "label": "me.rcrdscrtch.com",
+   "url": "https://me.rcrdscrtch.com/",
+   "text": "Dima: Founder and Growth Leader"
+  },
+  {
+   "id": "person:dima",
+   "type": "Person",
+   "label": "Dima Durah",
+   "text": "I'm Dima (pronounced dee-mah, she/her). I build, scale and sell AI products. My work combines AI, product strategy, and open-source principles to turn ideas into self-sustaining growth engines. Also, I think in moving pictures."
+  },
+  {
+   "id": "role:gtm-architect",
+   "type": "Role",
+   "label": "GTM Architect"
+  },
+  {
+   "id": "role:product-growth-marketing",
+   "type": "Role",
+   "label": "Product Growth Marketing"
+  },
+  {
+   "id": "role:strategic-growth-partnerships",
+   "type": "Role",
+   "label": "Strategic Growth & Partnerships"
+  },
+  {
+   "id": "role:open-source-contributor",
+   "type": "Role",
+   "label": "Open source contributor"
+  },
+  {
+   "id": "role:ai-product-marketing",
+   "type": "Role",
+   "label": "AI Product Marketing"
+  },
+  {
+   "id": "topic:knowledge-graphs",
+   "type": "Topic",
+   "label": "Knowledge Graphs"
+  },
+  {
+   "id": "topic:gen-ai-applications",
+   "type": "Topic",
+   "label": "Gen AI Applications"
+  },
+  {
+   "id": "proj:living-assets",
+   "type": "Company",
+   "label": "Living Assets Inc.",
+   "url": "https://mmc.vc/research/ai-discoverability-how-can-i-get-chatgpt-to-recommend-my-brand/",
+   "text": "Helping businesses discover and influence how they appear in AI search. Built and led product and growth strategy for an AI discovery platform helping media companies and publishers optimize their visibility across agentic search.",
+   "props": {
+    "tags": [
+     "Product Marketing",
+     "AI Search Optimization",
+     "Python",
+     "FastAPI",
+     "JSON",
+     "Strategic Partnerships"
+    ]
+   }
+  },
+  {
+   "id": "proj:veil-claai",
+   "type": "Product",
+   "label": "Veil by claai",
+   "url": "https://mmc.vc/research/ethical-ai-moving-from-napster-to-spotify-era/",
+   "text": "Image protection from unauthorized AI training. Co-created a machine learning tool that perturbs images to prevent model scraping and training without consent.",
+   "props": {
+    "tags": [
+     "Machine Learning",
+     "AI Ethics",
+     "Open Source",
+     "Product Launch Strategy"
+    ]
+   }
+  },
+  {
+   "id": "proj:spectral",
+   "type": "Company",
+   "label": "Spectral: Credit Score for Web3",
+   "url": "https://techcrunch.com/2022/08/24/spectral-raises-23m-to-help-create-web3-credit-scores/",
+   "text": "Decentralized credit scoring for transparent finance. Head of Product Marketing for an on-chain credit scoring protocol, owning positioning, messaging, launches and partnerships.",
+   "props": {
+    "tags": [
+     "Web3",
+     "Smart Contracts",
+     "Solidity",
+     "DID (Decentralized ID)",
+     "Market Positioning"
+    ]
+   }
+  },
+  {
+   "id": "proj:ownid",
+   "type": "Company",
+   "label": "OwnID (Pre-exit)",
+   "url": "https://www.ownid.com/",
+   "text": "Passwordless login powered by blockchain identity. Shaped messaging, GTM architecture and sales outreach strategy.",
+   "props": {
+    "tags": [
+     "Product Marketing",
+     "GTM Design",
+     "Blockchain",
+     "Identity Systems",
+     "Growth Strategy"
+    ]
+   }
+  },
+  {
+   "id": "proj:sap-io-fund",
+   "type": "Program",
+   "label": "SAP Early Stage VC Fund",
+   "url": "https://news.sap.com/2023/12/ai-powered-startup-partner-solutions-sap-io/",
+   "text": "Corporate VC fund for underrepresented founders in B2B SaaS. Contributed to fund design, storytelling, and accelerator outreach, amplifying the voices of diverse founders.",
+   "props": {
+    "tags": [
+     "Venture Capital",
+     "B2B SaaS",
+     "Fund Positioning",
+     "Founder Relations",
+     "Storytelling",
+     "Venture Strategy",
+     "Webflow",
+     "Event Management"
+    ]
+   }
+  },
+  {
+   "id": "proj:momstacles",
+   "type": "Creative work",
+   "label": "Momstacles",
+   "url": "https://www.webtoons.com/en/canvas/momstacles/list?title_no=46615",
+   "text": "An illustrated series about the struggles of millennial motherhood. Created a webcomic exploring parenthood, gender, and ambition through humor and narrative illustration.",
+   "props": {
+    "tags": [
+     "Illustration",
+     "Comics",
+     "Creative Writing",
+     "Visual Storytelling"
+    ]
+   }
+  },
+  {
+   "id": "proj:aviation-blockchain",
+   "type": "Program",
+   "label": "Aviation Blockchain Challenge",
+   "url": "https://lh-innovationhub.de/projekt/aviationblockchainchallenge/",
+   "text": "Accelerator for SaaS solutions in aviation using blockchain. Co-led program design and venture selection for Lufthansa and SAP, supporting startups focused on blockchain-enabled transparency in aviation supply chains.",
+   "props": {
+    "tags": [
+     "Accelerator Design",
+     "Blockchain",
+     "SaaS Strategy",
+     "Startup Mentorship"
+    ]
+   }
+  },
+  {
+   "id": "res:oss-gtm-playbook",
+   "type": "Resource",
+   "label": "OSS GTM Playbook",
+   "url": "https://comet-lantana-125.notion.site/OSS-GTM-Playbook-2bc8ea1315fc812d99daddfa6aae9448",
+   "text": "My open-source guide to building go-to-market strategies for developer tools and open-source projects. Packed with frameworks, templates, and real-world examples."
+  },
+  {
+   "id": "svc:work-with-me",
+   "type": "Service",
+   "label": "Work With Me",
+   "text": "I help ambitious AI and product-led companies connect product, story, and strategy to turn complex technology into market traction."
+  },
+  {
+   "id": "offer:growth-partnerships",
+   "type": "Offer",
+   "label": "Growth & Partnerships"
+  },
+  {
+   "id": "offer:pmm-gtm",
+   "type": "Offer",
+   "label": "Product Marketing & GTM"
+  },
+  {
+   "id": "offer:ai-product-management",
+   "type": "Offer",
+   "label": "AI Product Management"
+  },
+  {
+   "id": "offer:launch-campaigns",
+   "type": "Offer",
+   "label": "Launch campaigns"
+  },
+  {
+   "id": "offer:growth-engines",
+   "type": "Offer",
+   "label": "Growth engines"
+  },
+  {
+   "id": "offer:discovery-first-sales",
+   "type": "Offer",
+   "label": "Discovery and first sales"
+  },
+  {
+   "id": "principle:integrity",
+   "type": "Principle",
+   "label": "Integrity",
+   "text": "I value clarity, accountability, and doing what's right even when it's inconvenient."
+  },
+  {
+   "id": "principle:creativity",
+   "type": "Principle",
+   "label": "Creativity",
+   "text": "I connect unexpected dots and rewrite the playbook when it stops working."
+  },
+  {
+   "id": "principle:speed",
+   "type": "Principle",
+   "label": "Speed",
+   "text": "I move fast, but never at the expense of depth or detail."
+  },
+  {
+   "id": "principle:learning",
+   "type": "Principle",
+   "label": "Learning",
+   "text": "Every cycle, win or miss, expands the next iteration."
+  },
+  {
+   "id": "blog:thinking",
+   "type": "Collection",
+   "label": "Thinking",
+   "url": "https://dimad.substack.com/"
+  },
+  {
+   "id": "post:literary-dust-bunnies",
+   "type": "Post",
+   "label": "Literary dust bunnies...",
+   "url": "https://dimad.substack.com/p/literary-dust-bunnies-and-the-heroics",
+   "text": "I keep telling myself: You need to read more books and fewer words."
+  },
+  {
+   "id": "post:everything-arranged",
+   "type": "Post",
+   "label": "In a parallel universe...",
+   "url": "https://dimad.substack.com/p/everything-is-arranged-for-someone",
+   "text": "Rebuilding the internet into something AI agents can actually understand"
+  },
+  {
+   "id": "post:website-to-kg",
+   "type": "Post",
+   "label": "How I turned a website into a knowledge graph",
+   "url": "https://dimad.substack.com/p/how-i-turned-a-website-into-a-knowledge",
+   "text": "A step-by-step guide to turn your website into a Knowledge Graph + llms.txt so AI models can read, reason, and answer with your truth and why you shouldn't pay for this."
+  },
+  {
+   "id": "post:end-of-world",
+   "type": "Post",
+   "label": "End of the world: revisited",
+   "url": "https://dimad.substack.com/p/end-of-the-world-revisited",
+   "text": "Did my startup advice somehow age better than I did?"
+  },
+  {
+   "id": "post:seen-so-beautiful",
+   "type": "Post",
+   "label": "Have you ever seen something so beautiful?",
+   "url": "https://dimad.substack.com/p/have-you-ever-seen-something-so-beautiful",
+   "text": "The summer I turned knowledge graph-y."
+  },
+  {
+   "id": "post:honey-broke-internet",
+   "type": "Post",
+   "label": "Honey, I broke the internet",
+   "url": "https://dimad.substack.com/p/honey-i-broke-the-internet-for-the",
+   "text": "The modern web looks great to humans and unreadable to machines. Here's how to make sure AI still knows you exist."
+  },
+  {
+   "id": "post:fail-like-girl",
+   "type": "Post",
+   "label": "You fail like a \"girl\".",
+   "url": "https://dimad.substack.com/p/founder-recovery-rhetoric-is-gendered",
+   "text": "What post-startup failure looks like in practice."
+  },
+  {
+   "id": "post:ai-knockoffs",
+   "type": "Post",
+   "label": "AI Knockoffs and Digital Déjà Vu",
+   "url": "https://dimad.substack.com/p/algorithmic-knockoffs-and-digital",
+   "text": "Does AI development have to follow a tragedy of the commons script?"
+  },
+  {
+   "id": "post:we-broke-up",
+   "type": "Post",
+   "label": "We broke up.",
+   "url": "https://dimad.substack.com/p/we-broke-up",
+   "text": "What I learned from my startup shutdown and grueling co-founder breakup."
+  },
+  {
+   "id": "post:milan-fashion-week",
+   "type": "Post",
+   "label": "What Milan Fashion Week can teach us...",
+   "url": "https://dimad.substack.com/p/what-milan-fashion-week-can-teach",
+   "text": "But, really, who is protecting creators from the algorithms?"
+  },
+  {
+   "id": "profile:linkedin",
+   "type": "Profile",
+   "label": "LinkedIn",
+   "url": "https://www.linkedin.com/in/dima-durah"
+  },
+  {
+   "id": "profile:bluesky",
+   "type": "Profile",
+   "label": "Bluesky",
+   "url": "https://bsky.app/profile/dimadur.bsky.social"
+  },
+  {
+   "id": "profile:substack",
+   "type": "Profile",
+   "label": "Substack",
+   "url": "https://dimad.substack.com/"
+  },
+  {
+   "id": "org:claai",
+   "type": "Company",
+   "label": "Claai",
+   "text": "Original company thesis: protect creators' work from unauthorized AI training. Pivoted into Living Assets."
+  },
+  {
+   "id": "org:record-scratch",
+   "type": "Studio",
+   "label": "Record Scratch Productions",
+   "url": "https://rcrdscrtch.com/",
+   "text": "Product design and management studio."
+  },
+  {
+   "id": "org:tiptap",
+   "type": "Company",
+   "label": "Tiptap",
+   "url": "https://tiptap.dev/",
+   "text": "Collaborative editor infrastructure for developers."
+  },
+  {
+   "id": "prod:tiptapflex",
+   "type": "Product",
+   "label": "TipTapFlex"
+  },
+  {
+   "id": "prod:tiptap-tokens",
+   "type": "Product",
+   "label": "TipTap Tokens"
+  },
+  {
+   "id": "org:sap",
+   "type": "Company",
+   "label": "SAP",
+   "url": "https://www.sap.com/"
+  },
+  {
+   "id": "org:sap-newport",
+   "type": "Organization",
+   "label": "Newport Innovation Center",
+   "text": "SAP's research unit for emerging tech in enterprise: DeFi, digital identity, tokenomics."
+  },
+  {
+   "id": "org:dativ",
+   "type": "Company",
+   "label": "Dativ"
+  },
+  {
+   "id": "org:lufthansa-innovation-hub",
+   "type": "Organization",
+   "label": "Lufthansa Innovation Hub",
+   "url": "https://lh-innovationhub.de/"
+  },
+  {
+   "id": "org:basf",
+   "type": "Company",
+   "label": "BASF",
+   "url": "https://www.basf.com/"
+  },
+  {
+   "id": "prog:no-boundaries",
+   "type": "Program",
+   "label": "No Boundaries",
+   "text": "Program supporting diverse founders across gender, race, and background in SAP's accelerator cohorts."
+  },
+  {
+   "id": "award:hasso-plattner",
+   "type": "Award",
+   "label": "Hasso Plattner Award"
+  },
+  {
+   "id": "inv:antler",
+   "type": "Investor",
+   "label": "Antler",
+   "url": "https://www.antler.co/"
+  },
+  {
+   "id": "inv:y-combinator",
+   "type": "Investor",
+   "label": "Y Combinator",
+   "url": "https://www.ycombinator.com/"
+  },
+  {
+   "id": "inv:expa",
+   "type": "Investor",
+   "label": "Expa",
+   "url": "https://www.expa.com/"
+  },
+  {
+   "id": "media:techcrunch",
+   "type": "Media",
+   "label": "TechCrunch",
+   "url": "https://techcrunch.com/"
+  },
+  {
+   "id": "media:mmc",
+   "type": "Media",
+   "label": "MMC Ventures research",
+   "url": "https://mmc.vc/research/"
+  },
+  {
+   "id": "media:webtoons",
+   "type": "Media",
+   "label": "Webtoons",
+   "url": "https://www.webtoons.com/"
+  },
+  {
+   "id": "topic:geo",
+   "type": "Topic",
+   "label": "Generative Engine Optimization",
+   "text": "How brands and creators show up in AI answers."
+  },
+  {
+   "id": "concept:sao",
+   "type": "Concept",
+   "label": "Search Agent Optimization (SAO)",
+   "text": "Turning brand content into a knowledge graph for better agentic discovery."
+  },
+  {
+   "id": "org:techstars",
+   "type": "Organization",
+   "label": "Techstars",
+   "url": "https://www.techstars.com/"
+  }
+ ],
+ "edges": [
+  {
+   "from": "person:dima",
+   "to": "org:claai",
+   "label": "co-founded",
+   "status": "confirmed",
+   "start": "2023-10",
+   "note": "Cofounder & CEO"
+  },
+  {
+   "from": "org:claai",
+   "to": "proj:living-assets",
+   "label": "pivoted into",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "proj:living-assets",
+   "label": "co-founded",
+   "status": "confirmed",
+   "start": "2023-10",
+   "end": "2025-05",
+   "note": "Cofounder & CEO"
+  },
+  {
+   "from": "person:dima",
+   "to": "org:record-scratch",
+   "label": "founded",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:living-assets",
+   "to": "inv:antler",
+   "label": "backed by",
+   "status": "confirmed",
+   "note": "Antler program"
+  },
+  {
+   "from": "proj:living-assets",
+   "to": "topic:geo",
+   "label": "about",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:living-assets",
+   "to": "media:mmc",
+   "label": "featured in",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:veil-claai",
+   "to": "org:claai",
+   "label": "product of",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:veil-claai",
+   "to": "media:mmc",
+   "label": "featured in",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "org:tiptap",
+   "label": "worked at",
+   "status": "confirmed",
+   "start": "2025-07",
+   "end": "2025-11",
+   "note": "Growth Director"
+  },
+  {
+   "from": "org:tiptap",
+   "to": "inv:y-combinator",
+   "label": "backed by",
+   "status": "confirmed",
+   "note": "YC S23"
+  },
+  {
+   "from": "org:tiptap",
+   "to": "inv:expa",
+   "label": "backed by",
+   "status": "confirmed",
+   "note": "Led the seed round"
+  },
+  {
+   "from": "person:dima",
+   "to": "prod:tiptapflex",
+   "label": "designed",
+   "status": "confirmed",
+   "start": "2025",
+   "note": "Internal experiment"
+  },
+  {
+   "from": "person:dima",
+   "to": "prod:tiptap-tokens",
+   "label": "designed",
+   "status": "confirmed",
+   "start": "2025",
+   "note": "Internal experiment"
+  },
+  {
+   "from": "prod:tiptapflex",
+   "to": "org:tiptap",
+   "label": "product of",
+   "status": "confirmed"
+  },
+  {
+   "from": "prod:tiptap-tokens",
+   "to": "org:tiptap",
+   "label": "product of",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "proj:spectral",
+   "label": "worked at",
+   "status": "confirmed",
+   "start": "2022-07",
+   "end": "2023-08",
+   "note": "Head of Product Marketing"
+  },
+  {
+   "from": "proj:spectral",
+   "to": "media:techcrunch",
+   "label": "featured in",
+   "status": "confirmed",
+   "start": "2022-08",
+   "note": "Coverage of Spectral's raise"
+  },
+  {
+   "from": "person:dima",
+   "to": "org:sap",
+   "label": "worked at",
+   "status": "confirmed",
+   "start": "2017-05",
+   "end": "2022-07"
+  },
+  {
+   "from": "person:dima",
+   "to": "proj:sap-io-fund",
+   "label": "worked on",
+   "status": "confirmed",
+   "start": "2017-07",
+   "end": "2020-08",
+   "note": "Global Startup Engagement Manager"
+  },
+  {
+   "from": "proj:sap-io-fund",
+   "to": "org:sap",
+   "label": "part of",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:sap-io-fund",
+   "to": "org:lufthansa-innovation-hub",
+   "label": "partnered with",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:sap-io-fund",
+   "to": "org:basf",
+   "label": "partnered with",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:sap-io-fund",
+   "to": "org:techstars",
+   "label": "partnered with",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "prog:no-boundaries",
+   "label": "created",
+   "status": "confirmed"
+  },
+  {
+   "from": "prog:no-boundaries",
+   "to": "proj:sap-io-fund",
+   "label": "part of",
+   "status": "confirmed"
+  },
+  {
+   "from": "prog:no-boundaries",
+   "to": "award:hasso-plattner",
+   "label": "finalist for",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "proj:ownid",
+   "label": "worked on",
+   "status": "confirmed",
+   "start": "2020-08",
+   "end": "2021-05",
+   "note": "Head of Product Marketing & Growth, as an SAP employee"
+  },
+  {
+   "from": "proj:ownid",
+   "to": "org:sap",
+   "label": "spun out of",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "org:sap-newport",
+   "label": "worked at",
+   "status": "confirmed",
+   "start": "2021-05",
+   "end": "2022-07",
+   "note": "Business Development & Product Marketing Lead"
+  },
+  {
+   "from": "org:sap-newport",
+   "to": "org:sap",
+   "label": "part of",
+   "status": "confirmed"
+  },
+  {
+   "from": "org:sap-newport",
+   "to": "org:dativ",
+   "label": "ran a POC with",
+   "status": "draft",
+   "note": "Dima owned research and business case"
+  },
+  {
+   "from": "person:dima",
+   "to": "proj:aviation-blockchain",
+   "label": "co-led",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:aviation-blockchain",
+   "to": "org:lufthansa-innovation-hub",
+   "label": "run by",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:aviation-blockchain",
+   "to": "org:sap",
+   "label": "run by",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "proj:momstacles",
+   "label": "created",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:momstacles",
+   "to": "media:webtoons",
+   "label": "published on",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "res:oss-gtm-playbook",
+   "label": "authored",
+   "status": "confirmed"
+  },
+  {
+   "from": "webpage",
+   "to": "person:dima",
+   "label": "about",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "role:gtm-architect",
+   "label": "has role",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "role:product-growth-marketing",
+   "label": "has role",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "role:strategic-growth-partnerships",
+   "label": "has role",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "role:open-source-contributor",
+   "label": "has role",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "role:ai-product-marketing",
+   "label": "has role",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "topic:knowledge-graphs",
+   "label": "researches",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "topic:gen-ai-applications",
+   "label": "researches",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "topic:geo",
+   "label": "researches",
+   "status": "draft"
+  },
+  {
+   "from": "person:dima",
+   "to": "svc:work-with-me",
+   "label": "provides",
+   "status": "confirmed"
+  },
+  {
+   "from": "svc:work-with-me",
+   "to": "offer:growth-partnerships",
+   "label": "offers",
+   "status": "confirmed"
+  },
+  {
+   "from": "svc:work-with-me",
+   "to": "offer:pmm-gtm",
+   "label": "offers",
+   "status": "confirmed"
+  },
+  {
+   "from": "svc:work-with-me",
+   "to": "offer:ai-product-management",
+   "label": "offers",
+   "status": "confirmed"
+  },
+  {
+   "from": "svc:work-with-me",
+   "to": "offer:launch-campaigns",
+   "label": "offers",
+   "status": "confirmed"
+  },
+  {
+   "from": "svc:work-with-me",
+   "to": "offer:growth-engines",
+   "label": "offers",
+   "status": "confirmed"
+  },
+  {
+   "from": "svc:work-with-me",
+   "to": "offer:discovery-first-sales",
+   "label": "offers",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "principle:integrity",
+   "label": "guided by",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "principle:creativity",
+   "label": "guided by",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "principle:speed",
+   "label": "guided by",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "principle:learning",
+   "label": "guided by",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "blog:thinking",
+   "label": "writes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:literary-dust-bunnies",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:everything-arranged",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:website-to-kg",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:end-of-world",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:seen-so-beautiful",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:honey-broke-internet",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:fail-like-girl",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:ai-knockoffs",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:we-broke-up",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "blog:thinking",
+   "to": "post:milan-fashion-week",
+   "label": "includes",
+   "status": "confirmed"
+  },
+  {
+   "from": "post:website-to-kg",
+   "to": "topic:knowledge-graphs",
+   "label": "about",
+   "status": "confirmed"
+  },
+  {
+   "from": "post:seen-so-beautiful",
+   "to": "topic:knowledge-graphs",
+   "label": "about",
+   "status": "confirmed"
+  },
+  {
+   "from": "post:honey-broke-internet",
+   "to": "topic:geo",
+   "label": "about",
+   "status": "draft"
+  },
+  {
+   "from": "post:everything-arranged",
+   "to": "topic:gen-ai-applications",
+   "label": "about",
+   "status": "confirmed"
+  },
+  {
+   "from": "post:ai-knockoffs",
+   "to": "topic:gen-ai-applications",
+   "label": "about",
+   "status": "draft"
+  },
+  {
+   "from": "proj:veil-claai",
+   "to": "topic:gen-ai-applications",
+   "label": "about",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "profile:linkedin",
+   "label": "on",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "profile:bluesky",
+   "label": "on",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "profile:substack",
+   "label": "on",
+   "status": "confirmed"
+  },
+  {
+   "from": "person:dima",
+   "to": "concept:sao",
+   "label": "coined",
+   "status": "confirmed"
+  },
+  {
+   "from": "proj:living-assets",
+   "to": "concept:sao",
+   "label": "built on",
+   "status": "confirmed"
+  },
+  {
+   "from": "concept:sao",
+   "to": "topic:geo",
+   "label": "related to",
+   "status": "confirmed"
+  },
+  {
+   "from": "concept:sao",
+   "to": "topic:knowledge-graphs",
+   "label": "related to",
+   "status": "confirmed"
+  }
+ ]
+}

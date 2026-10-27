@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- the earlier circle + square mark, with the circle cut to a half circle so it reads as a D -->
+  <rect width="32" height="32" fill="#f3f1ea"/>
+  <path d="M3,2 A10,10 0 0 1 3,22 Z" fill="#1f4fa3"/>
+  <rect x="15" y="15" width="14" height="14" fill="#d7262b"/>
+</svg>

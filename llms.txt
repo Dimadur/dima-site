@@ -1,0 +1,30 @@
+# Dima Durah
+
+> Fractional marketing and growth lead. I build, scale and sell AI products, combining AI, product strategy, and open-source principles to turn ideas into self-sustaining growth engines. Pronounced dee-mah, she/her.
+
+Roles: GTM Architect; Product Growth Marketing; Strategic Growth & Partnerships; Open source contributor; AI Product Marketing.
+Ideal projects: Growth & Partnerships; Product Marketing & GTM; AI Product Management.
+
+## Site
+- [Home](/index.html): bio, featured work, services, principles, writing
+- [Knowledge graph](/graph.html): explorable graph of everything on this site
+- [Knowledge graph data](/data/kg.json): nodes + edges as JSON
+
+## Featured work
+- [Living Assets Inc.](https://mmc.vc/research/ai-discoverability-how-can-i-get-chatgpt-to-recommend-my-brand/): built and led product and growth strategy for an AI discovery platform helping publishers optimize visibility across agentic search
+- [Veil by claai](https://mmc.vc/research/ethical-ai-moving-from-napster-to-spotify-era/): co-created an ML tool that perturbs images to prevent unauthorized AI training
+- [Spectral](https://techcrunch.com/2022/08/24/spectral-raises-23m-to-help-create-web3-credit-scores/): Head of Product Marketing for an on-chain credit scoring protocol
+- [OwnID (pre-exit)](https://www.ownid.com/): shaped messaging, GTM architecture and sales outreach strategy while it was part of SAP, before its spin-out
+- [SAP Early Stage VC Fund](https://news.sap.com/2023/12/ai-powered-startup-partner-solutions-sap-io/): fund design, storytelling and accelerator outreach for underrepresented B2B SaaS founders
+- [Momstacles](https://www.webtoons.com/en/canvas/momstacles/list?title_no=46615): webcomic about millennial motherhood
+- [Aviation Blockchain Challenge](https://lh-innovationhub.de/projekt/aviationblockchainchallenge/): co-led program design and venture selection for Lufthansa and SAP
+
+## Resources
+- [OSS GTM Playbook](https://comet-lantana-125.notion.site/OSS-GTM-Playbook-2bc8ea1315fc812d99daddfa6aae9448): open-source guide to go-to-market for developer tools and OSS projects
+
+## Writing
+- [Substack: Thinking](https://dimad.substack.com/)
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/dima-durah)
+- [Bluesky](https://bsky.app/profile/dimadur.bsky.social)

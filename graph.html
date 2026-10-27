@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Knowledge Graph — Dima Durah</title>
+<meta name="description" content="An explorable knowledge graph of Dima Durah's work: projects, roles, services, principles and writing.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="alternate" type="application/json" href="data/kg.json" title="Knowledge graph">
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body>
+
+<div class="shapes" aria-hidden="true"><i class="circle"></i><i class="square"></i><i class="tri"></i><i class="half"></i></div>
+
+<header class="bar glass">
+  <div class="wrap">
+    <a class="id" href="index.html">dima.durah<span class="c-cycle">_</span></a>
+    <nav aria-label="Primary">
+      <a class="opt" href="index.html#work">Work</a>
+      <a class="opt" href="index.html#services">Services</a>
+      <a class="opt" href="index.html#writing">Writing</a>
+      <a href="graph.html" aria-current="page" style="color:var(--blue)">Graph</a>
+      <button class="theme-btn" type="button" aria-label="Toggle color theme">◐</button>
+      <a class="btn primary" href="https://www.linkedin.com/in/dima-durah" target="_blank" rel="noopener">DM me ↗</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <section class="s c-blue sh-circle" style="padding-top:48px">
+      <div class="s-head">
+        <h1 class="s-title" style="font-size:clamp(34px,5vw,56px)">Knowledge Graph</h1>
+        <p class="s-lede" id="stats">Loading…</p>
+      </div>
+      <div class="kg-box glass">
+        <div class="kg-tools">
+          <input id="q" type="search" placeholder="search nodes…" aria-label="Search nodes">
+          <div id="chips" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+          <span class="spacer"></span>
+          <button class="btn" id="reset" type="button">Reset</button>
+          <a class="btn" href="data/kg.json" download>Export JSON</a>
+        </div>
+        <div class="kg">
+          <div id="graph"><span class="hint">drag · scroll to zoom · click a node</span></div>
+          <aside id="inspector" aria-live="polite">
+            <p class="k">Selected node</p>
+            <p class="txt" style="color:var(--muted)">Click a node in the graph, or pick one from the index below.</p>
+          </aside>
+        </div>
+      </div>
+      <details class="kg-index" open>
+        <summary>Index of all nodes</summary>
+        <div class="kg-index-grid" id="index"></div>
+      </details>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Dima Durah</span>
+    <span><a href="index.html">Home</a><a href="data/kg.json">kg.json</a><a href="llms.txt">llms.txt</a></span>
+  </div>
+</footer>
+
+<script src="assets/site.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="assets/graph.js"></script>
+</body>
+</html>

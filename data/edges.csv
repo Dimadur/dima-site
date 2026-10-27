@@ -1,0 +1,83 @@
+from,relation,to,start,end,status,source,note
+person:dima,co-founded,org:claai,2023-10,,confirmed,Dima,Cofounder & CEO
+org:claai,pivoted into,proj:living-assets,,,confirmed,Dima,
+person:dima,co-founded,proj:living-assets,2023-10,2025-05,confirmed,Dima,Cofounder & CEO
+person:dima,founded,org:record-scratch,,,confirmed,Dima,
+proj:living-assets,backed by,inv:antler,,,confirmed,Dima,Antler program
+proj:living-assets,about,topic:geo,,,confirmed,site,
+proj:living-assets,featured in,media:mmc,,,confirmed,Dima,
+proj:veil-claai,product of,org:claai,,,confirmed,Dima,
+proj:veil-claai,featured in,media:mmc,,,confirmed,Dima,
+person:dima,worked at,org:tiptap,2025-07,2025-11,confirmed,Dima,Growth Director
+org:tiptap,backed by,inv:y-combinator,,,confirmed,Dima,YC S23
+org:tiptap,backed by,inv:expa,,,confirmed,Dima,Led the seed round
+person:dima,designed,prod:tiptapflex,2025,,confirmed,Dima,Internal experiment
+person:dima,designed,prod:tiptap-tokens,2025,,confirmed,Dima,Internal experiment
+prod:tiptapflex,product of,org:tiptap,,,confirmed,Dima,
+prod:tiptap-tokens,product of,org:tiptap,,,confirmed,Dima,
+person:dima,worked at,proj:spectral,2022-07,2023-08,confirmed,Dima,Head of Product Marketing
+proj:spectral,featured in,media:techcrunch,2022-08,,confirmed,site link,Coverage of Spectral's raise
+person:dima,worked at,org:sap,2017-05,2022-07,confirmed,Dima,
+person:dima,worked on,proj:sap-io-fund,2017-07,2020-08,confirmed,Dima,Global Startup Engagement Manager
+proj:sap-io-fund,part of,org:sap,,,confirmed,Dima,
+proj:sap-io-fund,partnered with,org:lufthansa-innovation-hub,,,confirmed,Dima,
+proj:sap-io-fund,partnered with,org:basf,,,confirmed,Dima,
+proj:sap-io-fund,partnered with,org:techstars,,,confirmed,Dima,
+person:dima,created,prog:no-boundaries,,,confirmed,Dima,
+prog:no-boundaries,part of,proj:sap-io-fund,,,confirmed,Dima,
+prog:no-boundaries,finalist for,award:hasso-plattner,,,confirmed,Dima,
+person:dima,worked on,proj:ownid,2020-08,2021-05,confirmed,Dima,"Head of Product Marketing & Growth, as an SAP employee"
+proj:ownid,spun out of,org:sap,,,confirmed,Dima,
+person:dima,worked at,org:sap-newport,2021-05,2022-07,confirmed,Dima,Business Development & Product Marketing Lead
+org:sap-newport,part of,org:sap,,,confirmed,Dima,
+org:sap-newport,ran a POC with,org:dativ,,,draft,Dima,Dima owned research and business case
+person:dima,co-led,proj:aviation-blockchain,,,confirmed,site,
+proj:aviation-blockchain,run by,org:lufthansa-innovation-hub,,,confirmed,site,
+proj:aviation-blockchain,run by,org:sap,,,confirmed,site,
+person:dima,created,proj:momstacles,,,confirmed,site,
+proj:momstacles,published on,media:webtoons,,,confirmed,site,
+person:dima,authored,res:oss-gtm-playbook,,,confirmed,site,
+webpage,about,person:dima,,,confirmed,site,
+person:dima,has role,role:gtm-architect,,,confirmed,site,
+person:dima,has role,role:product-growth-marketing,,,confirmed,site,
+person:dima,has role,role:strategic-growth-partnerships,,,confirmed,site,
+person:dima,has role,role:open-source-contributor,,,confirmed,site,
+person:dima,has role,role:ai-product-marketing,,,confirmed,site,
+person:dima,researches,topic:knowledge-graphs,,,confirmed,site,
+person:dima,researches,topic:gen-ai-applications,,,confirmed,site,
+person:dima,researches,topic:geo,,,draft,site,
+person:dima,provides,svc:work-with-me,,,confirmed,site,
+svc:work-with-me,offers,offer:growth-partnerships,,,confirmed,site,
+svc:work-with-me,offers,offer:pmm-gtm,,,confirmed,site,
+svc:work-with-me,offers,offer:ai-product-management,,,confirmed,site,
+svc:work-with-me,offers,offer:launch-campaigns,,,confirmed,site,
+svc:work-with-me,offers,offer:growth-engines,,,confirmed,site,
+svc:work-with-me,offers,offer:discovery-first-sales,,,confirmed,site,
+person:dima,guided by,principle:integrity,,,confirmed,site,
+person:dima,guided by,principle:creativity,,,confirmed,site,
+person:dima,guided by,principle:speed,,,confirmed,site,
+person:dima,guided by,principle:learning,,,confirmed,site,
+person:dima,writes,blog:thinking,,,confirmed,site,
+blog:thinking,includes,post:literary-dust-bunnies,,,confirmed,site,
+blog:thinking,includes,post:everything-arranged,,,confirmed,site,
+blog:thinking,includes,post:website-to-kg,,,confirmed,site,
+blog:thinking,includes,post:end-of-world,,,confirmed,site,
+blog:thinking,includes,post:seen-so-beautiful,,,confirmed,site,
+blog:thinking,includes,post:honey-broke-internet,,,confirmed,site,
+blog:thinking,includes,post:fail-like-girl,,,confirmed,site,
+blog:thinking,includes,post:ai-knockoffs,,,confirmed,site,
+blog:thinking,includes,post:we-broke-up,,,confirmed,site,
+blog:thinking,includes,post:milan-fashion-week,,,confirmed,site,
+post:website-to-kg,about,topic:knowledge-graphs,,,confirmed,site,
+post:seen-so-beautiful,about,topic:knowledge-graphs,,,confirmed,site,
+post:honey-broke-internet,about,topic:geo,,,draft,site,
+post:everything-arranged,about,topic:gen-ai-applications,,,confirmed,site,
+post:ai-knockoffs,about,topic:gen-ai-applications,,,draft,site,
+proj:veil-claai,about,topic:gen-ai-applications,,,confirmed,site,
+person:dima,on,profile:linkedin,,,confirmed,site,
+person:dima,on,profile:bluesky,,,confirmed,site,
+person:dima,on,profile:substack,,,confirmed,site,
+person:dima,coined,concept:sao,,,confirmed,Dima,
+proj:living-assets,built on,concept:sao,,,confirmed,Dima,
+concept:sao,related to,topic:geo,,,confirmed,Dima,
+concept:sao,related to,topic:knowledge-graphs,,,confirmed,Dima,
